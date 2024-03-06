@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Science Portfolio
+# Dinesh Kumar Reddy Guvva
 
 ---
 
